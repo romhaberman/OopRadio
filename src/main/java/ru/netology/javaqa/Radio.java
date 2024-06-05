@@ -58,7 +58,7 @@ public class Radio {
     }
 
     public void moreSound() {
-        if (soundVolume >=100) {
+        if (soundVolume >= 100) {
             soundVolume = soundVolume;
         }
         if (soundVolume < 100) {
